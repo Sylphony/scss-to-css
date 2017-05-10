@@ -1,0 +1,16 @@
+{
+  "name": "sites",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "css-loader": "^0.28.1",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "node-sass": "^4.5.2",
+    "postcss-loader": "^2.0.5",
+    "sass-loader": "^6.0.5",
+    "webpack": "^2.5.1"
+  },
+  "scripts": {
+
+  }
+}
