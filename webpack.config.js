@@ -25,9 +25,6 @@ module.exports = function(env) {
         entryObj[dirPath + "/" + filename] = filepath;
     });
 
-
-    console.log(entryObj);
-
     return {
         entry: entryObj,
 
