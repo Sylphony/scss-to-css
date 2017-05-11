@@ -1,7 +1,7 @@
 {
   "name": "sites",
   "version": "1.0.0",
-  "main": "index.js",
+  "author": "Sylphony",
   "devDependencies": {
     "css-loader": "^0.28.1",
     "extract-text-webpack-plugin": "^2.1.0",
